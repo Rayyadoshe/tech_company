@@ -1,1 +1,1 @@
-opgave 1
+SELECT * FROM employees WHERE salary > 1500;
